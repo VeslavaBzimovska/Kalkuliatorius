@@ -1,0 +1,5 @@
+/Users/veslava/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/veslava/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/veslava/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/veslava/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.exe
+/Users/veslava/Projects/Calculator/Calculator/obj/x86/Debug/Calculator.pdb
